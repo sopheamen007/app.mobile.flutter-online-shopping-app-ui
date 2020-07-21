@@ -1,5 +1,7 @@
 # online_shopping_ui_app
 
+![Online Shopping App](https://user-images.githubusercontent.com/16510597/88023252-ed7b5700-cb5a-11ea-9ac3-976c84e95e31.jpg)
+
 A new Flutter project.
 
 ## Getting Started
