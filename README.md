@@ -1,4 +1,7 @@
-# online_shopping_ui_app
+# Online Shopping UI App
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/_OPswEqgntg)
 
 ![Online Shopping App](https://user-images.githubusercontent.com/16510597/88023252-ed7b5700-cb5a-11ea-9ac3-976c84e95e31.jpg)
 
